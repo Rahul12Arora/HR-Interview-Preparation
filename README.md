@@ -45,12 +45,17 @@
 - Even I want to make a good relationship with all office members and staff.
 
 ## Why Should We Hire You
-- As a fresher, I think I will be a great fit for this role. Since I am a quick learner and highly passionate about pursuing a career in this industry, I have already started my groundwork, I have researched about your company, your vision and goals. I am sure I can deliver everything that you are looking for in a candidate.
-- COUNTER QUESTION: We have 20 suitable candidates, and we only need 5, why should we select you?
-	- I do not know much about others, but I know myself. I've Done multiple projects on Frontend And MERN Stack.
-	- I've even completed a course certification of the same.
-	- Your organization is working over projects relevant to my skill set.
-	- So I believe I can easily contribute to your company's growth.
+1. Approach 1:
+	- You should hire me because I have a strong technical foundation, a positive attitude, and a willingness to learn and adapt. I am highly motivated to start my career in front-end development and believe that my skills and abilities make me an ideal fit for this role.
+	- I have a solid understanding of [relevant front-end technologies], which I have acquired through my academic and personal projects. I am confident that I can contribute my technical expertise to the team and provide value to the company.
+	- In addition to my technical abilities, I am a quick learner, and I thrive in fast-paced, dynamic environments. I am passionate about technology and am constantly seeking opportunities to expand my knowledge and skillset. I am confident that I can adapt to new technologies and work collaboratively with the team to deliver high-quality work.
+2. Approach 2:
+	- As a fresher, I think I will be a great fit for this role. Since I am a quick learner and highly passionate about pursuing a career in this industry, I have already started my groundwork, I have researched about your company, your vision and goals. My skills are relevant for the projects your company is currently working on. I am sure I can deliver everything that you are looking for in a candidate.
+	- COUNTER QUESTION: We have 20 suitable candidates, and we only need 5, why should we select you?
+		- I do not know much about others, but I know myself. I've Done multiple projects on Frontend And MERN Stack.
+		- I've even completed a course certification of the same.
+		- Your organization is working over projects relevant to my skill set.
+		- So I believe I can easily contribute to your company's growth.
 
 ## Challenges You've Faced
 - After recovering, I had a tough time getting back on track with the trending technologies.
@@ -59,3 +64,12 @@
 - I eventually became a leader in the Super 50 group of Newton where the top 50 students of Newton are selected and 10 groups of 5 students are formed with one leader.
 - I guided my group while creating projects in JavaScript, React and also helped them solving DSA problems.
 - I also realised that our group lacked communication between its members. So I arranged a weekly share and learn session, where every member had to speak about the part he/she is working on or completed with everyone. This challenge taught me that along with technology, proper communication drives a project to completion.
+
+## Are You Planning To Have Children
+- You know I'm not quite there yet. But I'd like to know more about the career progression at your company. Can you tell me a little bit more about that.
+
+## Do You Have Any Questions For Me
+- Yes, I do have a few questions. First, I would love to know more about the day-to-day responsibilities of a front-end developer at your company. What kind of projects will I be working on, and what is the team structure like?
+- I'm also curious to learn about any opportunities for growth and advancement within the company. As a fresher, I am looking for a company that will provide me with opportunities to learn and grow my career, so I am interested in any training or development programs that the company offers.
+- Finally, I would love to know more about the company culture and work environment. What is the team dynamic like, and how does the company support its employees in achieving their goals?
+- Overall, I am very excited about the possibility of joining your team, and I would love to learn more about the company and the role to ensure that it's a good fit for me.
