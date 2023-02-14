@@ -51,3 +51,11 @@
 	- I've even completed a course certification of the same.
 	- Your organization is working over projects relevant to my skill set.
 	- So I believe I can easily contribute to your company's growth.
+
+## Challenges You've Faced
+- After recovering, I had a tough time getting back on track with the trending technologies.
+- So I took different courses, initally to refresh my knowledge on Java and JavaScript, and then moved on to more advanced libraries and frameworks like React.js, Node.js and Express.js.
+- While catching on, I also focused on developing my problem solving skills by solving leetcode problems.
+- I eventually became a leader in the Super 50 group of Newton where the top 50 students of Newton are selected and 10 groups of 5 students are formed with one leader.
+- I guided my group while creating projects in JavaScript, React and also helped them solving DSA problems.
+- I also realised that our group lacked communication between its members. So I arranged a weekly share and learn session, where every member had to speak about the part he/she is working on or completed with everyone. This challenge taught me that along with technology, proper communication drives a project to completion.
