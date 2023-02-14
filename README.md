@@ -1,6 +1,6 @@
 ## Introduce Yourself
-- Hello, my name is Abhideep Ghosh, and I am a hard working graduate specialised in CSE with a strong passion for frontend development.
-- After completing my education in B.Tech CSE in 2019 from IEM Kolkata, I had to take a career break of 4 years due to medical reasons. During this time, I focused on my health and recovery, but I never lost sight of my passion for programming.
+- Hello, my name is Abhideep Ghosh, and I am a hard working graduate specialised in CSE with a strong passion for web development.
+- After completing my graduation in B.Tech CSE in 2019 from IEM Kolkata, I had to take a career break of 4 years due to medical reasons. During this time, I focused on my health and recovery, but I never lost sight of my passion for programming.
 - I have been working hard to refresh my technical skills and catch up with the latest front-end technologies during this break.
 - I have taken several online courses like Newton's full stack web dev course and javascript, nodejs courses from Udemy and have completed various projects, including CyberNotes(MERN), Hotstar Clone, and AI-Code-Wizard, to demonstrate my skills.
 - Although my career break has been challenging, it has given me the opportunity to develop resilience, determination, and a positive attitude towards life.
