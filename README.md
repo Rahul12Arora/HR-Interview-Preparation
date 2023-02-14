@@ -37,3 +37,6 @@
 ## Where Do You See Yourself In 5 Years
 - After 5 years, I would like to see myself being more matured, experienced, knowledgable, and responsible person in your company.
 - Even I want to make a good relationship with all office members and staff.
+
+## Why Should We Hire You
+- As a fresher, I think I will be a great fit for this role. Since I am a quick learner and highly passionate about pursuing a career in this industry, I have already started my groundwork, I have researched about your company, your vision and goals. I am sure I can deliver everything that you are looking for in a candidate.
