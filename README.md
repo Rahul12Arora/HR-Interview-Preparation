@@ -1,8 +1,8 @@
 ## Introduce Yourself
-- Hello, my name is Abhideep Ghosh, and I am a fresher with a strong passion for frontend development.
+- Hello, my name is Abhideep Ghosh, and I am a hard working graduate specialised in CSE with a strong passion for frontend development.
 - After completing my education in B.Tech CSE in 2019 from IEM Kolkata, I had to take a career break of 4 years due to medical reasons. During this time, I focused on my health and recovery, but I never lost sight of my passion for programming.
 - I have been working hard to refresh my technical skills and catch up with the latest front-end technologies during this break.
-- I have taken several online courses and have completed various projects, including CyberNotes(MERN), Hotstar Clone, and AI-Code-Wizard, to sharpen my skills in HTML, CSS, JavaScript, And React.
+- I have taken several online courses like Newton's full stack web dev course and javascript, nodejs courses from Udemy and have completed various projects, including CyberNotes(MERN), Hotstar Clone, and AI-Code-Wizard, to demonstrate my skills.
 - Although my career break has been challenging, it has given me the opportunity to develop resilience, determination, and a positive attitude towards life.
 - I am excited to start my career in front-end development and to work with a team that is dedicated to building innovative and user-friendly websites. Thank you for considering my application, and I look forward to discussing my qualifications further with you.
 
@@ -19,7 +19,13 @@
 	- I am especially interested in the [specific project/area] that your company is currently working on. I believe that my technical skills in [relevant front-end technologies] and my passion for front-end development can contribute to the success of the project and help your company achieve its goals.
 	- Additionally, I am attracted to your company's commitment to employee growth and development. I am looking for a company that provides opportunities for professional development, encourages creativity and innovation, and values teamwork. I believe that your company aligns with these values, and I am excited about the prospect of being part of your team.
 	- Overall, I believe that your company is a great fit for my career aspirations, and I am excited about the opportunity to contribute to your success while growing my skills and knowledge as a front-end developer."
-2. Approach 2(Mainly For Startups):
+2. Approach 2(For All Interviews):
+	- I am very excited about the prospect of joining your company because of its reputation for [specific quality, such as innovation, community involvement, or commitment to excellence].
+	- As a fresher, I am looking for a company that will provide me with the opportunity to learn and grow in my career as a front-end developer, and I believe that your company is the perfect fit for me.
+	- I have done extensive research on your company and am impressed by the work that you do, especially [specific project or aspect of the company that resonates with you]. Your company's commitment to [specific value or mission] is inspiring, and I am excited about the possibility of contributing my skills to help achieve these goals.
+	- Additionally, I am drawn to the culture of your company, which values collaboration, creativity, and innovation. I believe that these values are essential to creating a positive work environment and producing high-quality work. I am confident that I will thrive in such an environment and that I will be able to make meaningful contributions to the team.
+	- Overall, I believe that your company is an ideal fit for me, and I am excited about the opportunity to contribute my skills and grow my career as a front-end developer with your team. 
+3. Approach 3(Mainly For Startups):
 	- As a fresher, I need a platform to implement my theoritical knowledge into practical knowledge.
 	- Your company mainly works on JavaScript/React/MERN, in which I have completed multiple projects and certification courses.
 	- So I think your company is the perfect place for me to demonstrate and grow in my area of expertise. That's why I want to join your company.
@@ -40,3 +46,8 @@
 
 ## Why Should We Hire You
 - As a fresher, I think I will be a great fit for this role. Since I am a quick learner and highly passionate about pursuing a career in this industry, I have already started my groundwork, I have researched about your company, your vision and goals. I am sure I can deliver everything that you are looking for in a candidate.
+- COUNTER QUESTION: We have 20 suitable candidates, and we only need 5, why should we select you?
+	- I do not know much about others, but I know myself. I've Done multiple projects on Frontend And MERN Stack.
+	- I've even completed a course certification of the same.
+	- Your organization is working over projects relevant to my skill set.
+	- So I believe I can easily contribute to your company's growth.
