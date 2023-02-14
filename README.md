@@ -65,6 +65,13 @@
 - I guided my group while creating projects in JavaScript, React and also helped them solving DSA problems.
 - I also realised that our group lacked communication between its members. So I arranged a weekly share and learn session, where every member had to speak about the part he/she is working on or completed with everyone. This challenge taught me that along with technology, proper communication drives a project to completion.
 
+## Walk Me Through Your Resume
+- Sure, I'd be happy to walk you through my resume.
+- To start, I completed my Bachelor's degree in Computer Science from IEM Kolkata in 2019.
+- I've unskilled my knowledge in various programming languages, libraries, frameworks and databases such as JavaScript, HTML, CSS, React, Node, Express, MongoDB and Java.
+- After that, I took up an online certification course in Web Development from Newton School where I learned about web technologies such as MERN Stack. During the course, I also worked on several projects, including the ones in my project.
+- Apart from this, I also participated in various coding competitions and hackathons, where I collaborated with other developers and gained knowledge about new technologies. I've solved a handful of DSA Problems which can be seen in my Leetcode profile. 
+
 ## Are You Planning To Have Children
 - You know I'm not quite there yet. But I'd like to know more about the career progression at your company. Can you tell me a little bit more about that.
 
@@ -99,3 +106,23 @@
 	- I believe that constructive feedback is essential for personal and professional growth, and I welcome it as an opportunity to learn and improve. When I receive feedback, I listen carefully to the comments and try to understand the specific areas where I need to improve. I then reflect on the feedback and consider how I can apply it to future work, whether it's by revising my approach, seeking additional training, or soliciting more feedback from others.
 	- One time when I received difficult feedback was during a group project in Super 50. A team member pointed out that the animations we had used was making the project consume more data or every render in the react project. As the leader, it was my duty to have been knowing of this issue throughout. Although it was hard to figure out why, I took the not optimized project as a challenge and started debugging every component in the code. I asked the team member for specific examples of where the issue may have been residing, and I also reached out to the professor for additional guidance. I then worked hard to revise and expand my contributions, incorporating the feedback and striving to deliver high-quality work that met the team's standards.
 	- In the end, the project was a success, and I learned a valuable lesson about the importance of seeking and incorporating feedback. I also developed a deeper appreciation for the power of collaboration and open communication in achieving shared goals.
+
+## Questions HR SET 2
+1. What are your 5 best qualities?
+	- Adaptability: I believe that being adaptable and flexible is crucial in the fast-paced and ever-evolving field of IT. I am able to quickly learn and adapt to new technologies, methodologies, and environments, and can work effectively under changing conditions.
+	- Attention to detail: I am meticulous and detail-oriented in my work, and I take pride in producing high-quality code and applications. I am able to catch and fix errors and bugs before they become larger issues, and I strive for excellence in all aspects of my work.
+	- Problem-solving skills: I enjoy the challenge of solving complex technical problems and am able to use a logical and analytical approach to troubleshoot issues. I am persistent and patient when tackling difficult problems, and I am able to collaborate with others to find solutions.
+	- Creativity: I am innovative and enjoy thinking outside the box to find new and creative solutions to technical challenges. I am able to come up with new ideas and approaches, and I enjoy experimenting with new technologies and techniques.
+	- Strong work ethic: I am hardworking and dedicated to my craft, and I always strive to do my best. I am reliable and responsible, and I take ownership of my work and responsibilities. I am committed to continuous learning and improvement, and I am willing to put in the extra effort to achieve my goals.
+2. What is your unique quality compared to others?
+	- I believe that my unique quality is my ability to learn quickly and adapt to new technologies and methodologies. I am naturally curious and enjoy exploring new programming languages, tools, and frameworks, which has helped me to expand my skillset and stay up-to-date with the latest trends in the industry.
+	- Another unique quality that sets me apart is my strong attention to detail. I am meticulous in my work, and I take pride in producing high-quality code and applications. I am able to catch and fix errors and bugs before they become larger issues, and I strive for excellence in all aspects of my work.
+	- Furthermore, I believe that my ability to collaborate and communicate effectively with others is also a unique quality. I am a good listener, and I am able to understand the needs and perspectives of others.
+3. What is your greatest fear?
+	- My greatest fear would be not being able to keep up with the rapidly evolving technology landscape. I understand that the field of IT is constantly evolving, and new technologies, tools, and methodologies are emerging all the time. As someone who is just starting out in their career, it can be overwhelming to keep up with these changes and ensure that my skills are always relevant.
+	- However, I recognize that this fear can also be a motivator for me to continuously learn and grow. I am committed to staying up-to-date with the latest trends and best practices in the industry, and I am always looking for opportunities to improve my skills and knowledge. I am eager to learn from experienced professionals and to work on challenging projects that will help me to build my expertise.
+	- Additionally, I believe that having a growth mindset and a willingness to adapt and embrace change are essential qualities for success in the field of IT. By maintaining a positive attitude and being open to new opportunities, I am confident that I can overcome any challenges or obstacles that come my way.
+4. Who inspires you? Why?
+	- One of the people who inspires me the most is Bill Gates. He is not only a successful entrepreneur and business leader but also a philanthropist who has dedicated his wealth and time to solving some of the world's most pressing problems, such as improving global health and reducing poverty.
+	- What inspires me most about Bill Gates is his dedication to lifelong learning and his ability to think outside the box. He is a true innovator who has a unique ability to identify problems and come up with creative solutions to solve them. He also has an incredible work ethic and the ability to inspire and motivate others to achieve their goals.
+	- In addition to his professional accomplishments, Bill Gates' philanthropic work through the Bill and Melinda Gates Foundation is truly inspiring. He has made it his life's mission to improve global health and reduce poverty, and he has already made a significant impact in these areas.
