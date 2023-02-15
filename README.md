@@ -69,7 +69,7 @@
 - Sure, I'd be happy to walk you through my resume.
 - To start, I completed my Bachelor's degree in Computer Science from IEM Kolkata in 2019.
 - I've unskilled my knowledge in various programming languages, libraries, frameworks and databases such as JavaScript, HTML, CSS, React, Node, Express, MongoDB and Java.
-- After that, I took up an online certification course in Web Development from Newton School where I learned about web technologies such as MERN Stack. During the course, I also worked on several projects, including the ones in my project.
+- After that, I took up an online certification course in Web Development from Newton School where I learned about web technologies such as MERN Stack. During the course, I also worked on several projects, including the ones in my CV.
 - Apart from this, I also participated in various coding competitions and hackathons, where I collaborated with other developers and gained knowledge about new technologies. I've solved a handful of DSA Problems which can be seen in my Leetcode profile. 
 
 ## Are You Planning To Have Children
