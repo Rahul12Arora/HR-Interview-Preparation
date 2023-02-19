@@ -139,3 +139,6 @@
 	- During my Newton Course, I was assigned a project that required me to work with a team of other students. We had to collaborate and work together to complete the project on time.
 	- Unfortunately, I was not able to effectively communicate with the other members of the team and this caused some delays in completing the project. In hindsight, I should have taken more initiative in leading the team and ensuring that everyone was on the same page.
 	- After this experience, I started focussing on communication skills and tried to clearly describe situations. I started focussing more on simple words and effective verbal communications which lead me to creating successful projects later in the course without crossing any deadlines.
+4. What would you do if you found out a co-worker lied to a client?
+	- If I found out a co-worker lied to a client, I would first take the time to understand the situation and why the lie was told.
+	- Depending on the severity of the situation, I would then discuss it with my supervisor or manager and follow their instructions on how to proceed. If necessary, I would also document the incident and provide any evidence that may be needed.
