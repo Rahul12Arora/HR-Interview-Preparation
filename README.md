@@ -126,3 +126,16 @@
 	- One of the people who inspires me the most is Bill Gates. He is not only a successful entrepreneur and business leader but also a philanthropist who has dedicated his wealth and time to solving some of the world's most pressing problems, such as improving global health and reducing poverty.
 	- What inspires me most about Bill Gates is his dedication to lifelong learning and his ability to think outside the box. He is a true innovator who has a unique ability to identify problems and come up with creative solutions to solve them. He also has an incredible work ethic and the ability to inspire and motivate others to achieve their goals.
 	- In addition to his professional accomplishments, Bill Gates' philanthropic work through the Bill and Melinda Gates Foundation is truly inspiring. He has made it his life's mission to improve global health and reduce poverty, and he has already made a significant impact in these areas.
+
+## Questions HR SET 3
+1. Did you ever have to correct a superior when they were wrong ? How did you approach that situation.
+	- Yes, I have had to correct a superior when they were wrong. I approached the situation with respect and tact. I began by expressing my understanding of the situation and then presented my point of view in a calm and professional manner.
+	- I also made sure to provide evidence to support my argument, if necessary. Finally, I offered to work together with the superior to find a solution that would be beneficial for everyone involved.
+2. Do you usually set goals at work?
+	- Yes, I always set goals for myself at work.
+	- I believe that setting goals helps me stay focused and motivated to achieve the best results. It also helps me measure my progress and stay on track with my tasks.
+3. Is there a situation you think you could have handled better or differently?
+	- Yes, there is a situation I could have handled better or differently.
+	- During my Newton Course, I was assigned a project that required me to work with a team of other students. We had to collaborate and work together to complete the project on time.
+	- Unfortunately, I was not able to effectively communicate with the other members of the team and this caused some delays in completing the project. In hindsight, I should have taken more initiative in leading the team and ensuring that everyone was on the same page.
+	- After this experience, I started focussing on communication skills and tried to clearly describe situations. I started focussing more on simple words and effective verbal communications which lead me to creating successful projects later in the course without crossing any deadlines.
